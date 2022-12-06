@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrewjamesboyle
-- 🌱 I’m currently learning Full Stack Software Development with React, Javascript, SQL, Node, and Postgres.
+- 🌱 Full Stack Software Development proficient with React, Javascript, SQL, NodeJS, and Postgres.
 - 📫 How to reach me ...
       - Email: andrewboylecodes@gmail.com
       - LinkedIn: https://www.linkedin.com/in/andrewjamesboyle/
