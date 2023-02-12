@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrewjamesboyle
-- Full Stack Software Developer proficient with React, Javascript, SQL, NodeJS, and Postgres.
-- Learning: Python, NumPy, TensorFlow, implementing Machine Learning Algorithms
+- Full Stack Software Developer proficient with React, Javascript, SQL, and NodeJS.
+- Learning: Python, NumPy, TensorFlow, Machine Learning
 - 📫 How to reach me ...
       - Email: andrewboylecodes@gmail.com
       - LinkedIn: https://www.linkedin.com/in/andrewjamesboyle/
