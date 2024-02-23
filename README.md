@@ -1,4 +1,3 @@
-- Hi, I’m @andrewjamesboyle
 - Freelance Full Stack Software Developer proficient with React, RedwoodJS, SQL, Node, GraphQL, Tailwind, and more.
 - How to reach me ...
 
