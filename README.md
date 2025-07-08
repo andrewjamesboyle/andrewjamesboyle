@@ -1,9 +1,8 @@
-- Full Stack / GIS Software Developer proficient with React, Mapbox, RedwoodJS, SQL, Node, GraphQL, Tailwind, and more.
+- Full Stack / GIS Software Developer
 - How to reach me ...
 
       - Email: andrewboylecodes@gmail.com
       - LinkedIn: https://www.linkedin.com/in/andrewjamesboyle/
-      - Portfolio: https://portfolio-site-bice-five.vercel.app/
       - Syncline Software Solutions, LLC. - https://www.synclinesoftwaresolutions.com/
 
 <!---
